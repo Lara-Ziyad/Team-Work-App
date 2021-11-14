@@ -1,0 +1,68 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Change SideNavbar",
+      "attention": false,
+      "dev": "John Doe",
+      "date": "2021-11-10T21:28:24.895Z"
+    },
+    {
+      "id": 5,
+      "message": "fixed the bugs",
+      "attention": true,
+      "dev": "Lara Ziyad",
+      "date": "2021-11-10T22:03:41.183Z"
+    },
+    {
+      "id": 6,
+      "message": "Layla...clean your room",
+      "attention": true,
+      "dev": "Lara Ziyad",
+      "date": "2021-11-10T22:04:00.636Z"
+    },
+    {
+      "message": "I don't want",
+      "attention": false,
+      "dev": "Layla Shrouf",
+      "date": "2021-08-26T16:47:03.418Z",
+      "id": 7
+    },
+    {
+      "message": "Update my website",
+      "attention": true,
+      "dev": "Lara Ziyad",
+      "date": "2021-11-10T20:23:38.911Z",
+      "id": 8
+    },
+    {
+      "message": "Make new post",
+      "attention": false,
+      "dev": "Simon Kamper",
+      "date": "2021-11-10T20:24:09.094Z",
+      "id": 9
+    }
+  ],
+  "Developers": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "Lara",
+      "lastName": "Ziyad",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Layla",
+      "lastName": "Shrouf"
+    },
+    {
+      "firstName": "Simon",
+      "lastName": "Kamper",
+      "id": 4
+    }
+  ]
+}
